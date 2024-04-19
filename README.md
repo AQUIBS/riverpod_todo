@@ -1,4 +1,6 @@
-# riverpod_sample1
+# riverpod_TODO
+
+This App is create to test Riverpod State mangement 
 
 A new Flutter project.
 
