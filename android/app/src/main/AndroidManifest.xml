@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.riverpod_sample1">
    <application
-        android:label="riverpod"
+        android:label="Todo"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
