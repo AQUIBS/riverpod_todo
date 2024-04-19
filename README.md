@@ -1,4 +1,4 @@
-# riverpod_TODO
+# Riverpod_TODO
 
 This App is create to test Riverpod State mangement 
 
